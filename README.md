@@ -1,2 +1,2 @@
-# aula-12
-Processos Autorregressivos, Integrados e de Médias Móveis ARIMA
+# Aula-12
+Econometria Avançada - Aula 12
